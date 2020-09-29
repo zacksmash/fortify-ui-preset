@@ -1,4 +1,5 @@
 <p align="center"><img width="400" src="https://github.com/zacksmash/fortify-ui-preset/blob/master/fortify-preset-image.png"></p>
+
 # Using this template
 
 Here are the steps to customize this template with your preset
