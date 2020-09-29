@@ -7,6 +7,7 @@ Here are the steps to customize this template with your preset
 - Rename the files in the `src` directory. Example `FortifyUIBootstrapCommand.php`
     - Make sure you update any `use` statements and namespaces
 - Add your preset stubs to the `stubs` directory
+- Add your preset image and preset screenshots
 - Update the `composer.json`
     - Replace all instances of `YourNamespace\\FortifyUIPreset` with your details. For example: `SomeDude\\FortifyUIBootstrap`
 - Search & Replace all of the following terms
