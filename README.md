@@ -18,7 +18,6 @@ Here are the steps to customize this template with your preset
     - Your Name
     - yourusername
     - you@yourdomain.com
-    -
 
 
 # Introduction
