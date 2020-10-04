@@ -1,4 +1,4 @@
-<p align="center"><img width="400" src="https://github.com/zacksmash/fortify-ui-preset/blob/master/fortify-preset-image.png"></p>
+<p align="center"><img width="400" src="https://github.com/zacksmash/fortify-ui-preset/raw/master/fortify-preset-image.png"></p>
 
 # Using this template
 
@@ -53,7 +53,7 @@ This command will publish **YourPreset's** views and resources to your project.
 - All `auth` views
 - Other files...
 
-<p align="center"><img  src="https://github.com/zacksmash/fortify-ui-preset/blob/master/fortify-preset-screenshot.png"></p>
+<p align="center"><img  src="https://github.com/zacksmash/fortify-ui-preset/raw/master/fortify-preset-screenshot.png"></p>
 
 ## License
 
