@@ -19,6 +19,6 @@ class FortifyUIPresetCommand extends Command
 
     protected function publishAssets()
     {
-        $this->callSilent('vendor:publish', ['--tag' => 'resources', '--force' => true]);
+        $this->callSilent('vendor:publish', ['--tag' => 'fortify-ui-preset-resources', '--force' => true]);
     }
 }

@@ -12,7 +12,8 @@ class FortifyUIPresetServiceProvider extends ServiceProvider
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__ . '/../stubs/resources/views' => base_path('resources/views'),
-            ], 'resources');
+                // Add more resources here
+            ], 'fortify-ui-preset-resources');
 
             $this->commands([
                 FortifyUIPresetCommand::class,
