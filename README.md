@@ -45,7 +45,7 @@ composer require yournamespace/fortify-yourpreset
 Next, you'll need to run the install command:
 
 ```bash
-php artisan fortify-ui:yourpreset
+php artisan fortify:yourpreset
 ```
 
 This command will publish **YourPreset's** views and resources to your project.

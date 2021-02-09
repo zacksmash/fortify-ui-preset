@@ -6,7 +6,7 @@ use Illuminate\Console\Command;
 
 class FortifyUIPresetCommand extends Command
 {
-    public $signature = 'fortify-ui:yourpreset';
+    public $signature = 'fortify:yourpreset';
 
     public $description = 'Install YourPreset with views and resources';
 
