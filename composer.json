@@ -15,7 +15,6 @@
         }
     ],
     "require": {
-        "php": "^7.4",
         "illuminate/contracts": "^8.0",
         "zacksmash/fortify-ui": "^1.0"
     },
